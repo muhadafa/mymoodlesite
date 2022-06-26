@@ -1,3 +1,3 @@
 # mymoodlesite
 School Learning Educational Management System
-Login: admin	Pw:Muash@1234
+Login: admin	Pw:Surname@1234
